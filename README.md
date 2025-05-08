@@ -39,6 +39,8 @@ The **FaizzyHon Creator Monetization Platform** is a full-stack SaaS web applica
   Real-time analytics for link clicks, views, sales, and earnings—powered by Firebase.
 
   -----
+  ![image](https://github.com/user-attachments/assets/6f24356f-407f-465f-b13d-c2bad267b37a)
+
   ![image](https://github.com/user-attachments/assets/5e58c31b-a46e-4478-b9b8-2b8cd36d3e1d)
 
   -----
