@@ -14,6 +14,12 @@ The **FaizzyHon Creator Monetization Platform** is a full-stack SaaS web applica
 > ⚠️ This is a private, closed-source project. This repository only serves as a technical overview and live demo reference.
 
 ---
+![image](https://github.com/user-attachments/assets/5a75005f-49fe-42a4-9a1f-4f1e4e04f363)
+![image](https://github.com/user-attachments/assets/84319e53-cfd0-472f-855f-e80cba67bc34)
+
+
+---
+
 
 ## 🌟 Features
 
